@@ -8,7 +8,7 @@
 - The user should be able to delete a todo item and to mark it as complete
 ### Modules/Packages/Libraries used:
 ```
-    - react: ^17.0.2
-    - react-bootstrap: ^2.2.2
-    - sass: ^1.49.7
+- react: ^17.0.2
+- react-bootstrap: ^2.2.2
+- sass: ^1.49.7
     ```
