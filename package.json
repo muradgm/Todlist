@@ -1,7 +1,7 @@
 {
   "name": "spa-component-bootstrap-todolist",
   "scripts": {
-    "dev": "react-scripts start"
+    "start": "react-scripts start"
   },
   "dependencies": {
     "bootstrap": "^5.1.3",
